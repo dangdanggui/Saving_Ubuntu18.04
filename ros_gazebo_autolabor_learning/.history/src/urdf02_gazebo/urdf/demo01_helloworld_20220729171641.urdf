@@ -1,0 +1,27 @@
+<robot name="mycar" >
+    <link name="base_link">
+        <visual>
+            <geometry>
+                <box size="0.5 0.3 0.1"/>
+            </geometry>
+            <origin xyz="0 0 0" rpy="0 0 0" />
+            <material name="yellow">
+                <color rgba="0.5 0.3 0 0.5" />
+            </material>
+        </visual>
+        <!-- 设置碰撞参数 -->
+        <!-- 如果是标准几何体直接复制visual 的geometry和origin -->
+        <<collision>
+            <geometry>
+                <box size="0.5 0.3 0.1"/>
+            </geometry>
+            <origin xyz="0 0 0" rpy="0 0 0" />
+        </collision>
+        <!-- 设置惯性矩阵 -->
+        <interial>
+            <origin xyz="0 0 0" />
+            <mass value="2" />
+            <interial ixx="1" ixy="0" ixz="0" iyy="0" iyz="1" izz="1" />
+
+    </link>
+</robot>

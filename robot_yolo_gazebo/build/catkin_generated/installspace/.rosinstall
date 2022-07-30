@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/melodic/robot_yolo_gazebo/install/setup.sh

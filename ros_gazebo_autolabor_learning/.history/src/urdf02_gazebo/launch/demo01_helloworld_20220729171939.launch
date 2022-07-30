@@ -1,0 +1,6 @@
+<<?xml version="1.0"?>
+<launch>
+    <!-- 在参数服务器中载入urdf -->
+    <!-- 启动Gazebo仿真环境 -->
+    <!-- 在Gazebo中添加机器人模型 -->
+</launch>

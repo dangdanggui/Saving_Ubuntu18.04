@@ -1,0 +1,20 @@
+<robot name="mycar" >
+    <link name="base_link">
+        <visual>
+            <geometry>
+                <box size="0.5 0.3 0.1"/>
+            </geometry>
+            <origin xyz="0 0 0" rpy="0 0 0" />
+            <material name="yellow">
+                <color rgba="0.5 0.3 0 0.5" />
+            </material>
+        </visual>
+        <!-- 设置碰撞参数 -->
+        <<collision>
+            <geometry>
+                <box size="0.5 0.3 0.1"/>
+            </geometry>
+            <origin xyz="0 0 0" rpy="0 0 0" />
+        </collision>
+    </link>
+</robot>

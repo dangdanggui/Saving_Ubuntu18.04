@@ -1,0 +1,2 @@
+mrobot_teleop
+-DCATKIN_DEVEL_PREFIX=/home/melodic/robot_yolo_teleop/devel -DCMAKE_INSTALL_PREFIX=/home/melodic/robot_yolo_teleop/install -G Unix Makefiles

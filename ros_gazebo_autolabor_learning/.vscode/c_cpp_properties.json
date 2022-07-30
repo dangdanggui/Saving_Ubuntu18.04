@@ -1,0 +1,31 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/melodic/catkin_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/melodic/catkin_ws/src/ros_astra_camera/include/**",
+        "/home/melodic/catkin_ws/src/ldlidar_sl_ros/include/**",
+        "/opt/ros/melodic/share/mastering_ros_description_pkg/include/**",
+        "/home/melodic/catkin_ws/src/rosserial/rosserial_server/include/**",
+        "/home/melodic/catkin_ws/src/rosserial/rosserial_test/include/**",
+        "/home/melodic/catkin_ws/src/turtlebot3_simulations/turtlebot3_fake/include/**",
+        "/home/melodic/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/home/melodic/catkin_ws/src/turtlebot3/turtlebot3_slam/include/**",
+        "/home/melodic/catkin_ws/src/usb_cam/include/**",
+        "/home/melodic/catkin_ws/src/uvc_cam/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

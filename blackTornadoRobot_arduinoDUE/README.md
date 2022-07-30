@@ -1,0 +1,5 @@
+# blackTornadoRobot_arduinoDUE
+
+master分支代码:为三轮小车所准备的,为黑旋风三轮小车所编写的下位机代码
+tripleMotorBoard分支：为了销售三路电机驱动板所准备的分支
+dualMotorBoard分支：为了销售两路电机驱动板准备的分支

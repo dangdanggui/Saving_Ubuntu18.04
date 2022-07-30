@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/melodic/ros_darknet_ros_yolov3/install/setup.sh

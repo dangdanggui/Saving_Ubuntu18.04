@@ -1,0 +1,2 @@
+mrobot_gazebo
+-DCATKIN_DEVEL_PREFIX=/home/melodic/robot_yolo_gazebo/devel -DCMAKE_INSTALL_PREFIX=/home/melodic/robot_yolo_gazebo/install -G Unix Makefiles

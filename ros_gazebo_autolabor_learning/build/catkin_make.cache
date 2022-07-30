@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/melodic/ros_gazebo_autolabor_learning/devel -DCMAKE_INSTALL_PREFIX=/home/melodic/ros_gazebo_autolabor_learning/install -G Unix Makefiles

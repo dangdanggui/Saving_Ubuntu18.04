@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/melodic/ros_gazebo_autolabor_learning/install/setup.sh
